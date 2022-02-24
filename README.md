@@ -2,12 +2,11 @@
 
 A command-line utility to send [pass](https://www.passwordstore.org/) passwords to [passbolt](https://www.passbolt.com/)
 
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [pass2passbolt](#pass2passbolt)
-	- [Usage](#usage)
-	- [Installation](#installation)
-	- [License](#license)
+- [Usage](#usage)
+- [Installation](#installation)
+- [License](#license)
 
 <!-- /TOC -->
 
