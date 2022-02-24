@@ -28,8 +28,8 @@ Where:
 * `--address` is the Passbolt server address
 * `--main-password` is the account main passwords
 * `--private-key` is the path to the private key provided at registration
-* `--name` is the password name is Passbolt
-* `--desc` is the password description in Passbolt
+* `--name` is the password name is Passbolt (_optional_)
+* `--desc` is the password description in Passbolt (_optional_)
 
 If we admit that the `pass` user is "toto" and the `pass` password is "hunter2", this command creates the following entry:
 
