@@ -33,6 +33,17 @@ If we admit that the `pass` user is "toto" and the `pass` password is "hunter2",
 
 ## Installation
 
+You can either:
+
+* grab the latest release [here](https://github.com/eze-kiel/pass2passbolt/releases);
+* build your own version of `pass2passbolt`:
+
+```
+git clone https://github.com/eze-kiel/pass2passbolt.git
+cd pass2passbolt/
+make build
+```
+
 ## License
 
 MIT
