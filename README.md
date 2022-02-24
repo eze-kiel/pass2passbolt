@@ -16,7 +16,12 @@ A command-line utility to send [pass](https://www.passwordstore.org/) passwords 
 The typical usage is the following:
 
 ```
-pass show path/to/password | pass2passbolt --uri domain.com --address https://passbolt.local --main-password PassBoltPassword --private-key ~/Documents/passbolt-priv-key.txt --name PasswordName --desc "Password description"
+pass show path/to/password | pass2passbolt --uri domain.com \
+	--address https://passbolt.local \
+	--main-password PassBoltPassword \
+	--private-key ~/Documents/passbolt-priv-key.txt \
+	--name PasswordName \
+	--desc "Password description"
 ```
 
 Where:
