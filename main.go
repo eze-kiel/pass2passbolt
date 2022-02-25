@@ -89,11 +89,11 @@ func main() {
 		ctx,
 		client,
 		"",
-		"Example Account",
+		p.name,
 		p.user,
 		p.domain,
 		p.pass,
-		"This is an Account for the example test portal",
+		p.desc,
 	)
 
 	if err != nil {
